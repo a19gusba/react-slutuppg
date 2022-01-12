@@ -1,0 +1,16 @@
+.heroes-wrapper {
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+
+h1.heroes-header {
+    color: var(--clr-white);
+    font-size: 45px;
+    margin: 10px 0px;
+}
+
+h2.heroes-header {
+    color: var(--clr-white);
+    font-size: 20px;
+    margin-bottom: 40px;
+}

@@ -1,0 +1,5 @@
+.favourite-heroes-container {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+}

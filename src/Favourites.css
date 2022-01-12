@@ -1,0 +1,16 @@
+.favourites-wrapper {
+    margin-top: 50px;
+    padding: 10px 20px 50px 20px;
+}
+
+h1.favourites-header {
+    color: var(--clr-white);
+    font-size: 45px;
+    margin: 10px 0px;
+}
+
+h2.favourites-header {
+    color: var(--clr-white);
+    font-size: 20px;
+    margin-bottom: 40px;
+}

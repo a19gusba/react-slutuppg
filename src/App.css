@@ -1,0 +1,28 @@
+:root {
+    --clr-primary: #66BBFF;
+    --clr-background: #192A3D;
+    --clr-background-light: #1d2c3f;
+    --clr-dark: #101A26;
+    --clr-white: #E0E1E3;
+    --clr-border: #314153;
+    --clr-light: #1A3E4E;
+    --clr-text-light: #6d7888;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.app {
+    position: relative;
+    width: 100vw;
+    min-height: 100vh;
+    background-color: var(--clr-background);
+}
